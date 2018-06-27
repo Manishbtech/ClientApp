@@ -2,9 +2,9 @@ import { NgModule }      from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { RegistrationComponent } from './Registration/registration.component'
+import { RegistrationComponent } from './User/Registration/registration.component'
 import { HomeComponent } from './Home/home.component'
-import { LoginComponent } from './Login/login.component'
+import { LoginComponent } from './User/Login/login.component'
 import { Route, RouterModule, Routes } from '@angular/router';
 
 

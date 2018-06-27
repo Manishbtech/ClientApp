@@ -9,9 +9,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
 var platform_browser_1 = require("@angular/platform-browser");
 var app_component_1 = require("./app.component");
-var registration_component_1 = require("./Registration/registration.component");
+var registration_component_1 = require("./User/Registration/registration.component");
 var home_component_1 = require("./Home/home.component");
-var login_component_1 = require("./Login/login.component");
+var login_component_1 = require("./User/Login/login.component");
 var router_1 = require("@angular/router");
 var appRoutes = [
     { path: 'home', component: home_component_1.HomeComponent },

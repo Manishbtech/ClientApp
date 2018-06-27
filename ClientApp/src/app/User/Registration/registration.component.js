@@ -13,7 +13,7 @@ var RegistrationComponent = /** @class */ (function () {
     RegistrationComponent = __decorate([
         core_1.Component({
             selector: 'user-registration',
-            templateUrl: 'app/registration/registration.component.html'
+            templateUrl: 'app/user/registration/registration.component.html'
         })
     ], RegistrationComponent);
     return RegistrationComponent;

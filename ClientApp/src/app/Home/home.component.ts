@@ -13,8 +13,3 @@ export class HomeComponent {
 
 }
 
-
-
-
-
-

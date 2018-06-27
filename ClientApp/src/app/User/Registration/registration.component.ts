@@ -4,10 +4,7 @@
 
 @Component({
     selector: 'user-registration',
-    templateUrl: 'app/registration/registration.component.html'
+    templateUrl: 'app/user/registration/registration.component.html'
 })
 
-export class RegistrationComponent {}
-
-
-
+export class RegistrationComponent { }
